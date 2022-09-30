@@ -1,0 +1,10 @@
+{
+  "name": "yttv",
+  "version": "1.1.0",
+  "description": "Makes YouTube TV work in your browser.",
+  "main": "main.js",
+  "scripts": {
+    "x:build": "web-ext build --overwrite-dest",
+    "x:lint": "web-ext lint"
+  }
+}
