@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "@apacheli/yttv",
+  "name": "yttv",
   "version": "1.0",
   "description": "Makes YouTube TV work in your browser.",
   "icons": {
